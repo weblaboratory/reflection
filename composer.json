@@ -1,0 +1,13 @@
+{
+    "name": "weblab/reflection",
+	"description": "Weblab reflection",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Timkor",
+            "email": "timothy.korse@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
